@@ -1,0 +1,3 @@
+Car | Reg: abc-123 | UserID: 12345
+Bus | Reg: JE-1903 | UserID: 12345
+Rikshaw | Reg: ab-9999 | UserID: 12345
